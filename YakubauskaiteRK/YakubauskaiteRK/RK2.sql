@@ -176,9 +176,18 @@ VALUES
 ('sdfsdf', 'adafafa'),
 ('asdasd', 'asdawewrrtr')
 
--- create new non-permament local table from SELECT res grSELECT Tutors.TutrorsID, Tutors.Post, Task.[Name], Task.[Time]INTO PostTaskTimeFROM (Tutors JOIN TutorsTask ON Tutors.TutrorsID = TutorsTask.TutrorsID) JOIN Task ON TutorsTask.TaskID = Task.TaskIDSELECT * FROM PostTaskTime
+-- create new non-permament local table from SELECT res gr
+
+
+SELECT Tutors.TutrorsID, Tutors.Post, Task.[Name], Task.[Time]
+INTO PostTaskTime
+FROM (Tutors JOIN TutorsTask ON Tutors.TutrorsID = TutorsTask.TutrorsID) JOIN Task ON TutorsTask.TaskID = Task.TaskID
+
+SELECT * FROM PostTaskTime
 
 -- SELECT agr func v stolbc
+
+
 SELECT AVG(AvgTime) AS 'AvgSUMTime'
 FROM (SELECT Tutors.TutrorsID, SUM(Task.[Time]) AS AvgTime
 FROM (Tutors JOIN TutorsTask ON Tutors.TutrorsID = TutorsTask.TutrorsID) JOIN Task ON TutorsTask.TaskID = Task.TaskID
@@ -186,6 +195,8 @@ GROUP BY Tutors.TutrorsID) AS AvgTutorTime
 
 
 -- predicat cravnenia s kvantorom
+
+
 SELECT Task.[Name] AS 'TaskName', Task.Rating, Task.[Time], Tutors.[Name] AS 'TutorName'
 FROM (Task JOIN TutorsTask ON Task.TaskID = TutorsTask.TaskID) JOIN Tutors ON TutorsTask.TutrorsID = Tutors.TutrorsID
 WHERE Task.[Rating] > 2
