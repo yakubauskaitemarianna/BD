@@ -1,0 +1,1000 @@
+698|729|18|edits informally |7/9/2004 5:46:00
+824|621|67|informally |5/15/1988 7:19:00
+90|825|40|number sequences of |11/21/1996 4:20:00
+634|438|44|number removal between |9/18/2015 12:59:00
+526|16|17|required word |7/26/1942 11:42:00
+764|467|31|change removal substitutions minimum |8/2/1951 12:41:00
+102|216|59|keeping |7/30/1953 21:39:00
+645|747|25|stopwords nonzero stopwords each |4/25/1994 0:24:00
+256|180|76|removal informally |1/4/2002 9:55:00
+649|922|46|number for one |7/9/1941 19:42:00
+535|238|41|between number |11/20/2014 17:29:00
+786|232|47|number deletions |1/8/1990 8:11:00
+287|920|10|substitutions difference |3/21/1990 5:52:00
+118|923|45|one into |11/17/2014 18:22:00
+382|72|94|occurred informally measuring nonzero |2/19/1900 10:57:00
+679|129|19|unique for unique |3/6/1887 16:58:00
+976|910|82|change words |3/12/1995 13:56:00
+754|366|28|deletions  |1/10/1999 10:26:00
+13|900|6|for  |6/10/2007 1:08:00
+725|72|78|stopwords nonzero substitutions |5/26/2013 23:21:00
+36|115|25|minimum text for |11/1/2013 12:44:00
+859|327|91|deletions text single-character distance |12/29/1961 6:04:00
+445|692|31|district minimum two into |6/27/2017 16:56:00
+887|767|95|number edits words |7/17/1973 18:55:00
+267|347|46|total number |1/27/2010 0:29:00
+908|159|73|distance required documents below |2/14/1992 9:28:00
+709|717|79|is |6/29/1946 20:16:00
+439|304|58|difference text |2/9/2012 14:57:00
+389|649|83|documents text substitutions one |3/20/1992 0:06:00
+832|747|83|unique |12/6/2017 11:46:00
+532|170|58|that documents number nonzero |3/8/1998 23:05:00
+646|824|75|district other |8/5/1988 13:50:00
+657|350|35|two substitutions |11/2/1933 5:11:00
+339|200|32|words  |1/3/1985 18:23:00
+86|235|17|deletions text collection |9/2/2016 7:20:00
+228|194|32|removal minimum single-character that |7/29/2011 17:51:00
+448|832|3|distance levenshtein |10/28/1999 10:07:00
+506|838|51|between single-character truncated |11/30/1935 13:02:00
+805|117|51|number distance words |10/19/1998 14:26:00
+932|645|88|keeping change unique |8/12/1958 9:21:00
+415|351|53|word stopwords |11/19/1969 2:38:00
+565|557|69|keeping collection vocabulary |9/8/2016 18:27:00
+948|983|22|district |10/10/1971 5:33:00
+82|983|99|for truncated measuring each |7/29/2008 14:48:00
+101|435|58|two each |11/1/2016 0:36:00
+169|715|73|bag-of-words |8/24/1973 13:36:00
+856|629|95|word |8/29/2004 3:38:00
+310|330|36|unique |5/13/2007 23:41:00
+46|550|65|is |6/15/1990 4:30:00
+61|96|27|insertions removal |10/21/1971 12:51:00
+244|121|39|collection of other between |8/27/2018 16:40:00
+258|554|84| |11/12/2008 16:40:00
+150|527|12|district each words |11/30/1957 17:52:00
+795|532|67|the levenshtein bag-of-words number |12/22/2013 22:47:00
+754|371|92|district after |2/28/1983 4:56:00
+837|504|25|difference |1/28/1944 17:31:00
+668|732|79|documents into district |7/21/1994 4:35:00
+352|793|97|tokenization keeping NNZ two |2/26/1923 1:08:00
+766|627|22|text is vocabulary truncated |4/30/2018 19:23:00
+281|350|30|words tokenization after difference |9/24/2014 5:38:00
+413|142|37|text |11/7/2005 1:11:00
+960|459|29|for |12/30/1924 7:35:00
+989|993|44|distance stopwords one |10/15/2005 11:34:00
+805|622|58|text two  |6/10/1985 0:09:00
+51|731|21|difference |4/22/2010 23:55:00
+23|711|28|documents vocabulary |8/5/1981 13:49:00
+307|453|48|required |5/29/2017 16:45:00
+224|125|4|difference removal number |3/7/2018 21:58:00
+80|305|36|distance number required |12/9/2013 11:04:00
+819|347|83|other tokenization that |9/13/2018 7:06:00
+439|135|17|in deletions one NNZ |4/25/2003 5:49:00
+54|57|25|vocabulary other nonzero |8/2/1999 22:31:00
+144|883|52|nonzero |5/6/1994 17:55:00
+158|69|59|for |8/21/1985 6:10:00
+324|793|28|is |4/7/1997 2:56:00
+615|513|54|collection substitutions occurred other |11/2/1960 15:35:00
+595|654|67|bag-of-words one district |4/24/1952 21:32:00
+158|321|63|in removal text sequences |10/3/1999 20:13:00
+948|907|27|nonzero |4/23/1997 3:06:00
+978|346|30|unique number informally word |4/18/1931 9:08:00
+340|125|91|words collection number single-character |11/11/1965 19:26:00
+611|980|36|number |2/9/1974 9:18:00
+647|65|31|words of |9/9/2017 1:03:00
+873|931|53|truncated word insertions |5/5/1950 10:53:00
+700|342|1|distance truncated unique vocabulary |4/10/2006 4:15:00
+733|545|84|for substitutions |12/4/1997 6:07:00
+126|46|70|into |8/16/2000 3:40:00
+329|992|24|words |6/14/2012 3:41:00
+513|782|31|difference district change |9/13/2006 9:45:00
+175|818|60|number each |7/8/1992 21:41:00
+795|937|89|levenshtein between two |1/31/2006 6:06:00
+988|168|69|the vocabulary |6/28/1984 5:14:00
+141|950|97|in each number deletions |7/14/2008 17:36:00
+291|524|51|words difference words |4/6/2015 0:39:00
+148|914|79|between for |1/2/2007 14:03:00
+487|94|56|unique |1/3/1995 3:57:00
+136|380|22|that NNZ minimum substitutions |3/8/1943 21:01:00
+369|115|65|the collection |7/22/1990 22:18:00
+328|774|87|tokenization collection |6/22/1975 8:26:00
+939|774|24|removal single-character vocabulary |1/15/2004 13:33:00
+86|578|34|that counts in NNZ |12/27/1977 11:46:00
+756|283|82|keeping measuring |1/3/2017 10:41:00
+746|175|79|change  single-character bag-of-words |1/30/2010 1:09:00
+730|618|58|truncated |5/8/1982 1:19:00
+655|29|0|into between  documents |11/15/1971 12:49:00
+968|206|28|is documents measuring |3/23/1948 20:26:00
+786|622|50| number |12/24/1928 2:25:00
+623|598|70|number the below required |4/28/1976 14:02:00
+402|285|85|for deletions single-character insertions |8/19/2010 15:38:00
+910|810|47|unique change change levenshtein |12/16/1990 3:08:00
+15|262|65|nonzero |5/15/1993 18:13:00
+453|340|99|insertions is required words |8/14/1980 5:00:00
+984|763|65|documents deletions unique |8/14/1992 17:46:00
+136|990|25|words difference |9/19/2013 23:29:00
+270|741|13|after each truncated below |1/3/2001 12:27:00
+869|302|53|number single-character number |10/12/1959 3:46:00
+492|995|84|of nonzero nonzero after |2/21/1981 11:26:00
+294|202|31|NNZ |9/23/2015 1:20:00
+576|437|55|number in each |8/26/2015 19:36:00
+604|622|55|removal total words difference |3/31/1959 19:51:00
+422|34|97|collection measuring |8/29/2018 0:49:00
+838|133|55|number other collection words |2/18/1969 0:15:00
+313|370|48|vocabulary keeping minimum one |9/9/1960 3:58:00
+737|646|48|substitutions collection number |11/16/1917 18:44:00
+513|600|7|district |9/24/1988 15:14:00
+65|12|26|between vocabulary district |7/23/2004 5:17:00
+886|317|60|tokenization sequences number |9/30/2003 15:27:00
+394|254|4|the substitutions number substitutions |10/24/2009 21:38:00
+879|660|11|difference vocabulary |5/18/1974 7:19:00
+653|139|0|into that |8/29/1978 13:39:00
+770|970|73|insertions |9/24/1997 14:08:00
+985|335|39|number unique counts edits |9/11/1991 9:18:00
+420|645|7|number  stopwords other |5/2/1902 14:59:00
+445|484|91|stopwords truncated of is |10/14/1980 13:09:00
+445|133|52|the levenshtein in number |7/11/2014 16:42:00
+255|644|23|keeping truncated number number |1/5/1977 13:44:00
+248|601|28|required distance number that |12/20/2010 12:18:00
+339|674|63|number for truncated |2/17/2007 8:06:00
+427|652|21|change in other |10/10/2009 10:36:00
+309|72|22|removal occurred required vocabulary |11/9/2015 7:26:00
+14|662|93|single-character measuring words |12/1/1971 10:41:00
+594|840|94|the keeping words deletions |6/11/1999 6:27:00
+386|510|91|informally vocabulary unique |8/12/2014 2:51:00
+829|378|75|text deletions of total |6/16/1893 23:48:00
+415|76|59|number bag-of-words |8/6/1980 8:54:00
+981|364|41|distance deletions |2/27/1904 5:49:00
+25|157|65|tokenization |10/31/1982 7:22:00
+924|158|78|sequences change number into |12/28/1992 18:26:00
+766|707|43|nonzero single-character collection total |1/25/1979 7:27:00
+334|516|56|change words |12/11/2013 12:06:00
+61|826|26|the one two |3/3/1974 14:23:00
+575|342|46|of of that other |2/16/2001 14:04:00
+365|306|30|into occurred |8/26/2015 2:54:00
+965|823|46|stopwords for collection change |12/23/1971 21:55:00
+134|445|51|words |8/11/1975 9:00:00
+525|732|67|edits |3/17/1940 20:16:00
+679|352|52|minimum |10/21/2008 16:22:00
+61|304|9|for required between |8/24/1996 6:03:00
+519|451|48|insertions |5/27/1932 15:45:00
+243|791|85|after documents is |5/12/2018 15:13:00
+561|152|25|unique of number |5/5/1944 18:38:00
+73|140|42|difference occurred |10/26/1947 17:33:00
+954|259|92|required truncated |10/17/1919 17:17:00
+276|111|90|substitutions change vocabulary |12/2/2003 5:22:00
+22|549|38|into nonzero the |4/24/2002 19:25:00
+757|972|37|edits number truncated documents |8/30/1963 21:01:00
+722|939|67|words removal words |5/7/2012 15:19:00
+763|234|17|other substitutions measuring edits |12/26/1922 8:31:00
+995|568|79|one minimum |3/20/1994 15:51:00
+452|738|61|informally |3/17/2018 17:03:00
+726|298|34|is |2/27/1990 6:10:00
+938|743|30|occurred between bag-of-words |7/17/2004 14:42:00
+473|202|60|of |11/5/1999 18:28:00
+762|560|90|minimum truncated measuring |9/18/2015 12:26:00
+486|568|24|total |11/5/1968 4:33:00
+342|607|85|into words number minimum |3/4/1981 3:34:00
+707|498|29|stopwords |10/27/2007 18:13:00
+168|802|34|unique |11/7/1961 14:27:00
+269|420|13|for |9/18/1996 6:21:00
+938|814|21|into words |7/16/1995 21:08:00
+555|611|15|total edits |2/17/2009 3:01:00
+471|357|47|other sequences |11/3/1976 18:39:00
+840|420|42|number collection district |8/22/1915 4:13:00
+682|179|30|insertions |5/18/2007 6:04:00
+793|848|2|each the levenshtein |4/19/2010 9:14:00
+303|798|8|levenshtein deletions total |5/19/1980 8:15:00
+418|796|86|collection stopwords |4/8/1997 16:57:00
+207|415|4|number |2/14/1997 20:10:00
+625|491|41|for counts distance |9/30/2016 14:16:00
+843|817|40|number |4/19/2018 16:14:00
+509|837|27|insertions other |5/20/2017 2:32:00
+540|232|61|number occurred between for |11/27/1905 15:06:00
+912|591|43|word bag-of-words informally |7/26/1976 23:02:00
+520|51|7|in minimum distance |7/19/1994 13:14:00
+10|391|66|words documents the |6/9/1985 9:13:00
+820|764|24|other |10/23/1973 5:59:00
+282|411|40|insertions substitutions levenshtein sequences |1/11/1956 8:16:00
+892|906|58|of counts |2/2/1951 14:21:00
+7|246|92|substitutions vocabulary |5/7/2011 11:51:00
+645|479|72|collection nonzero informally number |6/2/2018 12:14:00
+335|362|56|unique |8/31/1969 16:14:00
+308|716|64|nonzero two for words |8/18/1990 16:26:00
+566|958|1|of bag-of-words NNZ |4/20/2001 8:59:00
+956|856|59|minimum tokenization removal |5/6/1990 6:14:00
+410|61|85|into that |4/15/1985 7:27:00
+843|961|28|levenshtein |7/20/2013 8:43:00
+413|356|65|insertions documents words words |5/14/2008 3:31:00
+19|633|71|required after change substitutions |10/29/1988 0:58:00
+276|797|24|removal other number |5/21/1999 21:31:00
+933|744|24|in is difference |1/15/2006 0:20:00
+959|545|19|word sequences |9/26/2016 15:20:00
+831|958|95|counts |11/9/1959 12:33:00
+794|761|31|the removal substitutions  |12/12/1988 14:41:00
+995|470|77|stopwords |8/9/2017 18:07:00
+648|261|90|measuring |1/30/1941 0:44:00
+562|171|50| |11/21/1994 2:30:00
+551|574|47|of single-character distance |11/26/1939 19:43:00
+102|90|54|word informally of change |2/8/2013 7:15:00
+692|532|2|informally number |11/12/1971 11:55:00
+323|142|94| text change |4/29/1983 21:23:00
+297|673|32|truncated  total edits |12/1/1942 22:17:00
+814|61|86|measuring single-character |8/23/1990 12:50:00
+54|917|87|that required between bag-of-words |8/12/1970 23:24:00
+389|140|50|stopwords |8/31/2018 21:16:00
+580|855|66|keeping |7/28/1896 17:21:00
+520|628|45|removal district NNZ one |9/15/1947 17:29:00
+839|120|79|number tokenization in |3/25/2017 2:53:00
+121|849|25|levenshtein minimum deletions |2/8/2002 5:58:00
+772|23|74|minimum vocabulary total |12/4/2011 19:29:00
+745|432|6|removal counts counts total |1/14/2013 9:16:00
+345|227|58|collection sequences |4/8/2002 10:41:00
+262|213|73|difference |11/24/2002 20:15:00
+143|322|37|documents that |3/3/2009 17:46:00
+6|355|14|collection word substitutions documents |3/24/1952 1:53:00
+608|185|21|NNZ |10/24/1979 2:54:00
+109|841|0|informally for below for |9/17/1932 5:02:00
+679|328|94|sequences is |10/24/1962 3:07:00
+971|575|89|total bag-of-words |6/6/2016 23:31:00
+964|282|23|into |8/30/1984 1:16:00
+474|691|51|truncated |12/26/1969 16:31:00
+815|878|85|documents documents truncated |6/30/1906 14:42:00
+143|930|61|number into |11/3/1995 20:39:00
+602|761|41|collection NNZ nonzero |9/1/1950 5:53:00
+316|321|34|substitutions |10/17/1963 17:07:00
+92|264|69|two in |3/30/1908 0:26:00
+178|768|9|below other |4/11/1985 13:48:00
+267|527|63|change |4/16/1984 2:11:00
+855|499|23|deletions text tokenization number |1/6/1980 3:23:00
+349|822|66|collection is |4/1/1929 14:07:00
+642|216|23|each text |2/24/1995 8:51:00
+937|389|40|required |7/4/1965 8:34:00
+600|840|97|NNZ counts |10/16/2016 2:22:00
+314|730|51|sequences total total word |10/9/1996 20:17:00
+844|253|80|for removal |8/2/1938 19:54:00
+458|510|37|collection into |12/4/1912 13:56:00
+62|449|34|each insertions one |8/14/1962 17:08:00
+445|917|4|the two number |7/22/1955 4:37:00
+32|970|4|in unique |11/28/1892 20:39:00
+922|847|35|minimum occurred for in |2/21/1969 0:51:00
+592|850|22|below |6/29/2014 2:47:00
+153|348|15|below tokenization vocabulary measuring |9/28/2015 3:31:00
+874|911|72|deletions |12/25/1974 10:06:00
+910|175|36|informally word text tokenization |1/6/2007 11:26:00
+536|813|74|number |12/5/2014 2:27:00
+81|984|6|for |9/17/1978 21:18:00
+347|114|66|insertions |9/14/1997 18:15:00
+751|665|5|each |5/29/1990 5:44:00
+461|381|10|bag-of-words difference |3/19/1907 3:10:00
+341|810|10|distance is |3/3/2007 4:42:00
+171|399|13|difference |12/6/1922 1:01:00
+914|268|45|single-character |10/22/2015 18:04:00
+920|688|23|difference truncated into |7/30/2015 8:24:00
+545|181|53|number each |6/2/1945 12:15:00
+562|727|9|number change stopwords minimum |1/9/1980 3:30:00
+193|765|95|one truncated |11/2/1996 20:05:00
+356|968|14|single-character tokenization |3/24/1934 6:35:00
+586|139|8|unique required vocabulary |1/26/1998 13:44:00
+327|585|80|deletions |3/17/2018 12:26:00
+180|839|76|in collection stopwords each |8/11/1992 19:39:00
+669|800|58|two |1/4/2012 0:06:00
+638|306|63|minimum total words |5/1/1996 5:12:00
+891|230|31|insertions truncated removal words |10/9/1987 1:31:00
+678|41|91|NNZ collection for |3/28/2007 18:12:00
+93|216|50|keeping unique unique |6/29/1961 18:54:00
+158|122|47|total  |3/21/1947 21:05:00
+702|892|97|informally |7/11/2003 6:00:00
+629|775|53|single-character number difference |2/24/2016 3:30:00
+89|569|9|word number |1/7/1954 6:17:00
+973|322|14|occurred in unique one |5/8/1996 14:23:00
+357|457|72|counts |11/8/1946 10:16:00
+26|729|96|distance insertions keeping informally |8/6/1989 6:13:00
+809|366|78|one stopwords between number |5/26/2010 4:29:00
+906|145|75|edits |1/6/1971 15:37:00
+262|827|84|text |2/13/1962 1:33:00
+909|656|38|in unique measuring |12/27/1918 2:47:00
+854|658|1|unique after informally |3/16/1999 4:45:00
+34|870|82|edits word other words |10/24/2008 13:54:00
+163|275|33|two number text levenshtein |4/17/2009 0:08:00
+955|105|54|bag-of-words change below |3/16/2013 12:27:00
+324|888|83|of each keeping insertions |7/19/2007 10:05:00
+451|395|93|below for |6/6/1975 7:16:00
+940|521|42|levenshtein measuring |3/29/1934 8:01:00
+169|913|7|one measuring documents |10/21/1918 7:27:00
+444|682|28|distance |10/14/2014 20:12:00
+96|296|64|each nonzero words |5/6/1924 22:19:00
+374|805|43|substitutions the |9/23/2010 8:54:00
+246|808|37|counts stopwords deletions bag-of-words |4/29/2007 4:47:00
+881|806|31|words vocabulary |7/13/2005 17:37:00
+393|359|43|single-character into below minimum |8/12/2017 3:54:00
+740|209|81|district stopwords |11/9/2011 15:45:00
+738|889|70|single-character the unique occurred |8/26/1959 23:38:00
+490|66|18|below |4/12/1952 15:35:00
+280|720|35|after |2/8/1973 8:51:00
+935|642|66| that for |7/14/2000 23:17:00
+312|422|58|that of collection |12/24/1988 17:01:00
+613|226|25|each that measuring |10/17/1958 14:18:00
+806|607|56|words the collection change |10/5/1950 20:46:00
+927|464|77|between measuring |7/5/1960 20:21:00
+746|691|16|collection |3/17/2003 10:39:00
+817|825|38|difference the |8/10/2013 7:54:00
+944|684|73|stopwords number removal for |12/3/1992 18:46:00
+848|6|65|single-character measuring one of |7/17/1998 7:21:00
+454|860|68|for |8/26/1953 1:43:00
+966|488|48|NNZ into required |12/19/2009 12:16:00
+913|698|39|number total |7/23/2017 5:03:00
+207|114|17|NNZ number unique stopwords |8/25/1981 23:21:00
+230|106|9|total removal informally |10/18/2003 22:20:00
+160|916|49|minimum for |6/9/1982 1:24:00
+164|693|35|number one occurred |2/11/1989 4:10:00
+833|68|60|other collection is deletions |9/15/1952 21:05:00
+604|326|48|single-character number below NNZ |2/14/1976 1:45:00
+28|708|98|district below |4/29/1942 3:57:00
+523|902|59|deletions number difference |2/8/2018 7:37:00
+15|893|41|between is |12/4/1921 6:22:00
+467|484|81|edits substitutions that |4/10/1996 12:58:00
+39|132|52|insertions difference |4/10/1976 4:24:00
+328|187|73|nonzero |3/15/1981 3:33:00
+590|299|32|in |6/9/2015 9:59:00
+314|387|78|two change below |5/20/1975 21:04:00
+41|177|71|words |11/9/1988 15:41:00
+194|560|8|collection |3/1/2015 0:56:00
+402|938|39|other one keeping |1/7/1934 8:23:00
+830|707|10|that |8/2/2018 8:19:00
+422|968|60|informally unique |5/24/2013 16:12:00
+87|128|32|difference |12/15/2009 6:23:00
+77|81|36|truncated total |8/19/2018 2:34:00
+799|364|66|required unique is removal |9/27/2016 12:03:00
+581|985|36|each vocabulary one |11/24/1973 15:58:00
+428|267|59|distance occurred |6/8/1935 9:31:00
+262|573|16|informally each stopwords |6/26/2006 8:13:00
+23|800|78|other removal collection |7/14/1989 10:45:00
+476|45|37|the removal is  |2/12/1982 4:29:00
+202|305|92|number word |11/9/1943 20:02:00
+847|609|87|required change in |8/28/1988 6:55:00
+634|301|45|number total informally |8/6/1979 6:20:00
+199|36|72|occurred informally collection |2/17/1954 15:32:00
+552|605|29|informally number deletions |10/16/1914 16:56:00
+166|838|82|for change |10/14/2016 23:56:00
+353|470|70| in words is |4/27/2002 3:35:00
+881|399|72|that |2/14/1916 12:18:00
+669|288|0|into collection minimum insertions |9/19/1990 5:02:00
+247|531|71|insertions truncated is NNZ |12/25/1957 8:31:00
+689|475|87|that |1/26/1976 19:51:00
+962|732|11|number the number one |4/6/1995 13:02:00
+485|164|19|district occurred informally other |12/31/1945 11:23:00
+546|12|63|insertions for in |2/6/1911 22:55:00
+255|110|42|for single-character truncated words |2/12/2015 21:16:00
+87|964|92|NNZ |2/6/1984 21:12:00
+359|950|60|documents is two into |5/5/1985 7:28:00
+668|908|16|change for |2/15/1972 0:41:00
+238|516|40|of occurred total |10/2/1939 13:25:00
+799|4|61|number for required between |3/19/1952 23:39:00
+128|996|81|text counts required deletions |11/9/2004 20:27:00
+689|373|93|keeping |11/17/1919 15:32:00
+546|561|37|levenshtein |11/29/1983 14:07:00
+866|103|56|counts stopwords words difference |3/30/2006 7:56:00
+684|596|42|NNZ words |11/29/2006 10:35:00
+452|717|31|that unique removal |9/10/2015 4:27:00
+325|442|32|after collection levenshtein change |7/4/2015 1:16:00
+970|828|33|collection |6/22/2004 21:47:00
+431|335|69|number keeping |5/26/1916 0:28:00
+257|313|78|change collection |11/19/1922 6:04:00
+37|227|72|difference total nonzero informally |8/9/2015 17:18:00
+382|765|25|informally |3/29/1921 4:17:00
+217|602|35|documents number |3/8/1948 21:07:00
+651|220|82|difference sequences minimum truncated |11/24/1966 8:46:00
+112|300|13|documents levenshtein  |4/25/1924 3:58:00
+153|426|5|keeping |5/13/2017 20:46:00
+687|658|9|substitutions insertions nonzero between |8/14/2018 20:20:00
+551|105|76|difference |7/2/2017 19:36:00
+812|22|91|truncated change |10/11/1968 2:49:00
+304|478|20|for for |6/9/2002 12:24:00
+973|384|76|stopwords tokenization |2/14/2018 17:53:00
+492|969|5|words |6/18/1983 0:05:00
+530|342|3|into difference |1/19/1991 13:22:00
+95|174|28|the of in |12/22/1998 11:09:00
+267|88|79|substitutions |7/16/1969 0:39:00
+375|548|94|single-character deletions tokenization number |5/25/2006 4:05:00
+675|363|56|below minimum number |3/19/1946 22:29:00
+946|665|87|edits |11/10/1948 5:45:00
+970|342|80|vocabulary two |9/3/2009 7:34:00
+953|484|68|counts |11/29/2001 0:32:00
+5|16|76|deletions insertions |1/24/1970 3:20:00
+639|931|26|bag-of-words |4/22/1907 0:57:00
+156|496|70|required that |4/15/2009 16:13:00
+109|886|72|distance |6/15/1926 14:35:00
+558|77|41|number truncated counts below |2/10/2010 5:15:00
+569|519|16| stopwords |6/3/2017 11:47:00
+456|127|55|word nonzero removal |5/12/2014 12:09:00
+652|469|11|two vocabulary that |12/16/1947 23:45:00
+779|833|17|number edits number one |8/12/1975 8:49:00
+310|570|12|stopwords into number |2/5/1998 0:23:00
+47|526|3|between text |7/1/1953 5:28:00
+306|852|90|measuring deletions of |8/5/2008 4:57:00
+953|760|71|in for district |8/14/1956 21:45:00
+884|221|94|single-character counts each |7/4/1960 23:24:00
+339|403|2|one each into |8/8/2012 9:34:00
+401|151|71|other insertions levenshtein |8/26/2000 7:44:00
+487|795|82|into that |6/3/1994 21:15:00
+205|164|67|unique informally occurred tokenization |4/26/2012 11:54:00
+736|951|55|edits vocabulary substitutions |4/11/1939 4:22:00
+509|61|55|one |1/19/1903 17:46:00
+545|596|58|number removal district minimum |10/5/1922 1:34:00
+309|41|89|of |4/7/2004 2:17:00
+881|160|55|edits |10/19/2016 14:47:00
+617|581|50|for between single-character minimum |4/3/1946 18:41:00
+154|910|86|documents number NNZ single-character |5/10/1995 2:38:00
+930|759|77|nonzero substitutions counts in |8/5/2003 2:45:00
+354|245|28|vocabulary unique into documents |12/30/2003 1:59:00
+247|176|0| deletions after words |6/27/1961 13:47:00
+209|706|93|between |8/13/1993 15:03:00
+574|509|15|occurred insertions |5/25/1986 7:43:00
+408|556|86|sequences collection number |6/17/1986 5:12:00
+512|684|68|word truncated tokenization number |5/14/1933 16:50:00
+36|226|80|NNZ |7/8/2009 18:00:00
+386|982|59|sequences distance district after |7/1/1999 16:47:00
+554|818|3|each bag-of-words |6/28/1997 7:10:00
+271|701|71|each levenshtein collection |2/8/1997 0:26:00
+887|594|60|truncated bag-of-words informally one |12/23/2001 6:50:00
+757|447|64|nonzero nonzero informally |2/28/1997 4:55:00
+481|691|0|that nonzero district |9/21/1997 7:19:00
+753|270|88|difference number number number |6/3/1988 4:18:00
+35|865|34|tokenization into |1/2/1939 14:58:00
+623|869|33|below insertions |12/5/2017 15:20:00
+761|566|14|for |11/2/2003 23:43:00
+423|340|0|change number truncated |10/15/1989 11:21:00
+395|598|85|number nonzero that |12/6/2009 12:20:00
+496|61|41|stopwords vocabulary collection unique |11/12/2001 8:21:00
+311|372|92|for minimum |9/26/1967 12:11:00
+448|295|60|the vocabulary distance |11/1/1951 18:24:00
+971|492|42|collection measuring |12/19/2010 7:20:00
+989|88|49|minimum unique counts |10/16/2008 6:46:00
+97|138|46|total deletions in |11/10/2017 17:08:00
+151|109|82|documents number |11/2/1961 9:37:00
+92|748|64| each word number |3/31/2017 11:43:00
+422|825|68|words keeping other number |4/10/1973 17:09:00
+936|400|93|below |7/4/1986 0:51:00
+522|451|65|words collection for bag-of-words |1/19/1964 17:57:00
+162|490|95|NNZ two for |1/6/1955 12:25:00
+420|453|25|nonzero each |10/10/1975 13:47:00
+811|222|79|between number |11/11/1939 9:09:00
+928|422|6|that |7/8/2014 10:43:00
+534|495|81|edits |8/6/2014 11:04:00
+59|574|39|single-character words total  |5/1/2016 8:09:00
+879|728|19|required |10/22/2015 0:54:00
+326|513|9|informally into |7/16/1997 2:53:00
+740|895|72|that |12/1/1991 17:33:00
+344|610|31|text number  nonzero |7/24/1945 3:03:00
+664|945|23|stopwords removal two |1/23/1937 6:26:00
+708|297|77|NNZ |9/19/2014 22:27:00
+976|715|44|minimum distance distance |2/14/1892 5:00:00
+959|490|0|distance |9/3/2014 18:30:00
+943|18|3|tokenization documents total |3/1/2012 4:02:00
+231|62|28|occurred |10/16/1997 16:40:00
+901|960|79|one measuring number word |1/20/1948 22:32:00
+230|969|76| that nonzero |9/14/1995 5:48:00
+655|833|36|edits single-character |5/22/1986 4:45:00
+518|484|44|one |4/8/1966 16:02:00
+100|745|94|is below |12/9/2006 9:06:00
+3|106|94|truncated bag-of-words vocabulary |1/22/1958 6:32:00
+775|912|43|keeping text  |6/15/1993 9:11:00
+123|766|45|required |1/3/1987 5:35:00
+17|654|30|other collection unique |4/29/1990 15:09:00
+360|211|85|difference |5/28/2016 21:42:00
+779|278|30|after |12/29/1958 23:49:00
+633|562|24|words measuring |1/16/2013 15:27:00
+586|847|8|deletions word district |2/15/1992 18:20:00
+234|461|43|vocabulary |2/10/1982 15:38:00
+132|101|39|difference occurred the |4/20/1953 20:23:00
+990|913|66| number minimum |8/16/1998 15:29:00
+215|512|96|in |1/21/1962 17:42:00
+595|696|95|two counts |8/24/2014 8:36:00
+145|815|16|other |6/14/1986 7:57:00
+523|9|59|total after words stopwords |11/13/2009 21:41:00
+873|322|3|number for insertions text |7/16/1987 7:11:00
+729|23|87|measuring |8/16/2013 20:51:00
+580|847|11|occurred number words |1/21/2015 3:32:00
+537|109|8|counts nonzero |11/5/1958 22:52:00
+796|30|35|for number NNZ of |12/5/2015 17:24:00
+279|205|98|total other |11/10/1987 12:20:00
+680|631|78|nonzero insertions |7/7/2004 16:30:00
+464|27|97|between NNZ of |6/4/1984 9:13:00
+882|444|94|measuring number nonzero |10/30/2015 18:50:00
+925|77|12|the |8/22/1987 3:18:00
+750|704|17|unique |12/4/2009 16:33:00
+689|524|72|number words occurred one |1/14/2017 3:46:00
+902|134|4|collection district collection |6/4/1949 23:46:00
+302|725|88|number below substitutions  |2/19/2011 14:30:00
+970|666|94|bag-of-words vocabulary for |4/26/2007 7:23:00
+182|875|51|is |9/11/1941 18:22:00
+737|284|7|measuring the insertions |9/29/1928 7:42:00
+623|38|8|that collection |1/28/1995 8:20:00
+253|673|53|insertions difference nonzero removal |2/19/1913 20:29:00
+232|187|78|number change  measuring |10/12/1964 21:08:00
+198|915|86|documents unique single-character tokenization |5/3/2017 12:12:00
+329|424|95|minimum substitutions removal collection |2/7/2010 20:08:00
+702|426|40|for collection vocabulary distance |4/14/1908 6:02:00
+457|178|51|stopwords number |3/31/2011 7:39:00
+785|756|85|into number substitutions nonzero |6/24/1963 1:08:00
+145|948|44|informally nonzero words |4/3/2013 8:39:00
+937|652|85|collection after |3/31/1935 17:46:00
+388|965|55|that removal |12/30/1998 0:05:00
+581|539|77|difference collection |9/11/2010 20:12:00
+299|803|10|single-character vocabulary number |9/7/2016 6:39:00
+541|499|57|district single-character unique difference |9/27/1970 18:41:00
+26|467|58|removal distance the |4/22/2018 16:46:00
+435|802|3|into collection into stopwords |10/2/2003 11:04:00
+172|593|20|substitutions for |7/24/1944 20:08:00
+612|126|78|difference edits |12/20/1973 14:22:00
+851|195|99| two the |5/29/1983 18:59:00
+789|745|57|substitutions the collection |8/29/1969 9:32:00
+641|35|81|levenshtein occurred tokenization |5/6/1998 9:21:00
+607|511|16|in |8/19/2005 4:52:00
+202|762|48|for unique each |8/26/2014 4:05:00
+73|628|43|distance counts removal |2/11/1970 1:39:00
+165|599|37| bag-of-words |2/19/1937 10:20:00
+156|384|31|levenshtein number words |4/19/1952 8:54:00
+878|667|49|number words |7/29/1999 18:26:00
+646|946|0|number |6/2/1905 23:53:00
+63|558|5|counts one vocabulary collection |11/1/1955 18:11:00
+347|211|56|NNZ |7/12/1983 12:15:00
+654|131|51|measuring of each |3/13/1890 6:58:00
+328|437|33|number |12/20/1992 16:37:00
+751|299|24|words |1/8/1983 22:49:00
+634|740|1|single-character |6/21/2012 23:42:00
+903|374|86|tokenization informally informally word |12/14/1940 6:46:00
+30|313|94|change distance words |12/25/2006 8:58:00
+204|959|52|other |4/19/1995 20:40:00
+332|186|86|word vocabulary number |1/18/2014 22:10:00
+57|424|30|informally for insertions collection |10/30/1961 18:27:00
+283|199|14|each levenshtein words |9/7/1951 5:15:00
+560|587|17|text total NNZ insertions |4/7/1937 15:14:00
+379|872|83|documents deletions total  |9/8/1990 15:45:00
+611|269|46|number |7/4/2018 17:55:00
+188|664|83|difference bag-of-words for unique |4/23/1912 6:03:00
+585|884|57|minimum minimum |2/25/1922 9:51:00
+406|547|63|change minimum levenshtein words |11/2/1987 23:45:00
+566|975|98|truncated |6/14/2016 11:07:00
+693|173|99|counts vocabulary nonzero |1/13/1923 7:22:00
+680|953|52|deletions vocabulary number between |7/11/1996 18:08:00
+28|94|23|of |5/9/1917 17:48:00
+618|847|12|stopwords minimum other of |5/15/2010 1:59:00
+189|526|2|total |2/27/1992 5:41:00
+76|943|67|the below between |7/11/2016 5:10:00
+414|726|95|of insertions |4/13/2007 4:08:00
+620|536|0|number |4/19/1971 3:03:00
+783|548|71|insertions |11/8/1999 8:51:00
+772|887|29|documents |4/6/1943 4:05:00
+494|228|48|minimum below bag-of-words |11/21/1986 20:12:00
+379|609|49|for edits |1/16/1942 1:42:00
+878|889|12|below measuring that unique |1/16/2018 16:59:00
+794|526|16|two |12/2/1992 12:13:00
+126|308|51|tokenization two |2/13/2003 13:21:00
+174|583|73|substitutions words |9/27/2017 12:53:00
+404|538|18|counts of  |7/10/1931 9:34:00
+381|47|61|tokenization in informally |2/12/2008 2:40:00
+459|175|31|tokenization below |2/14/2017 3:49:00
+164|251|81|unique |1/25/1984 7:20:00
+39|831|1|word one |6/24/1988 7:49:00
+578|847|6|keeping into levenshtein is |1/14/1976 1:35:00
+692|403|99|for |4/28/1998 22:29:00
+636|848|99|the required required |11/25/2002 19:35:00
+581|778|21|for |12/15/2015 12:16:00
+121|488|94|stopwords removal |4/20/1984 14:23:00
+187|438|76|nonzero deletions insertions distance |8/18/1988 5:29:00
+292|629|97|tokenization |3/25/2003 21:06:00
+277|183|38|required |5/17/1983 9:44:00
+432|395|87|collection collection |9/20/2014 4:49:00
+852|180|51|the collection |4/12/1991 17:16:00
+760|939|88|levenshtein stopwords truncated |8/19/2011 20:15:00
+375|286|19|change bag-of-words words |3/16/1956 9:53:00
+378|366|96|sequences each |7/9/1912 1:57:00
+919|112|62|tokenization |4/24/1944 9:32:00
+810|81|8|vocabulary sequences into deletions |11/3/1987 8:29:00
+692|192|17|word number |11/17/2005 8:21:00
+752|418|16|after total substitutions collection |5/15/1995 0:26:00
+82|566|18|district the change number |8/21/1942 4:36:00
+689|312|43|district |3/22/1996 17:30:00
+901|981|63|number bag-of-words sequences informally |4/24/1893 3:28:00
+838|911|81|one |4/28/1915 1:39:00
+761|378|0|text collection occurred two |1/12/1959 5:45:00
+728|897|25|change total number into |2/29/1896 9:26:00
+591|964|94|in between words |4/22/2012 16:37:00
+511|89|76|text after keeping |3/9/1930 13:46:00
+856|217|5|removal truncated |2/19/1958 3:55:00
+180|626|94|truncated documents sequences the |3/15/2011 7:01:00
+591|960|53|substitutions truncated |1/25/2012 17:11:00
+716|309|45|occurred |3/30/2017 3:32:00
+72|124|22|total below after that |4/19/1924 4:42:00
+276|458|16|for is unique total |6/22/1979 22:17:00
+655|947|45|keeping |4/5/2000 13:19:00
+795|150|16|NNZ for edits tokenization |1/27/2018 22:28:00
+205|447|62|word |2/9/1988 21:35:00
+578|945|40|informally substitutions |6/12/2008 15:04:00
+104|930|46|between collection |11/15/2015 4:24:00
+189|519|57|stopwords one |3/14/1969 20:13:00
+542|357|64|minimum deletions |11/4/2014 14:14:00
+761|727|58|NNZ |5/25/2010 7:37:00
+124|90|4|number below |10/24/1978 22:39:00
+386|411|99|keeping NNZ |3/26/1998 20:10:00
+663|468|4|minimum words two documents |12/1/2017 7:51:00
+739|619|14|vocabulary documents |11/20/1974 12:10:00
+448|542|42|below each stopwords |5/14/2010 17:59:00
+459|259|40|nonzero number |12/8/1986 11:56:00
+231|921|5|change keeping |10/17/2010 8:24:00
+562|989|43|one occurred |8/9/1989 15:37:00
+985|73|25|for |7/20/2012 9:05:00
+294|24|95|after |9/18/1983 19:26:00
+365|363|11|each substitutions words |3/1/2004 19:33:00
+690|540|66|after text total NNZ |2/5/1974 15:33:00
+332|936|46| |5/29/1997 19:06:00
+275|679|10|below tokenization number number |6/10/2017 13:36:00
+152|91|56|number number NNZ occurred |6/7/1979 13:32:00
+774|339|25|measuring below stopwords keeping |10/21/2015 4:26:00
+324|895|63|for keeping |2/27/1926 2:47:00
+360|591|53|words into the |3/29/1989 21:17:00
+987|315|49|removal |12/2/1995 19:53:00
+904|575|51|below |10/4/1980 9:18:00
+600|970|33|text levenshtein in NNZ |8/30/1892 10:36:00
+770|673|38|number counts words insertions |11/24/1962 9:55:00
+492|15|60|substitutions measuring collection after |7/20/2014 3:45:00
+945|27|36|word |5/27/2017 7:14:00
+182|867|26|difference |1/31/1981 19:30:00
+334|817|13|informally number words collection |6/30/1950 23:46:00
+477|982|50|change after two |7/19/2011 18:09:00
+206|434|51|vocabulary substitutions levenshtein truncated |3/19/1985 6:10:00
+351|752|85|single-character removal measuring |7/10/2012 22:34:00
+725|288|81|keeping nonzero between |9/8/1984 8:52:00
+327|969|64|words words the |12/17/1997 17:06:00
+414|814|90|minimum district occurred nonzero |2/6/2009 17:12:00
+986|620|8|into nonzero |10/2/1998 11:49:00
+387|800|98|for that |7/18/1922 7:42:00
+836|198|74|two truncated informally |5/3/1946 13:45:00
+593|195|74|distance collection documents collection |10/7/1937 6:05:00
+251|316|99|vocabulary vocabulary counts |8/18/1933 7:32:00
+829|985|28|in that |8/16/2016 18:26:00
+623|461|96|each tokenization |6/5/2001 4:52:00
+989|364|92|text insertions number |5/18/1947 2:18:00
+503|242|84|unique counts |5/13/2018 12:11:00
+706|795|24|each truncated |8/2/2010 22:21:00
+595|477|88|substitutions |11/15/1954 5:33:00
+896|797|24|stopwords collection word for |8/13/2012 19:51:00
+105|719|60|text the |9/8/2010 1:03:00
+663|708|63|collection into single-character measuring |10/14/1971 0:11:00
+275|448|49|number of |5/5/1933 23:20:00
+256|92|78|number single-character after |12/2/1963 7:53:00
+797|925|7|after insertions NNZ |3/7/2011 21:11:00
+163|907|26|the substitutions |9/18/1998 11:34:00
+735|491|22|tokenization tokenization removal |7/13/1955 3:28:00
+586|861|93|insertions after removal |2/23/2017 11:52:00
+892|998|89|after number number nonzero |1/14/2011 9:25:00
+823|902|34|insertions number collection required |6/16/2015 22:53:00
+352|207|61|that vocabulary after |3/30/2010 6:48:00
+328|355|80|the other |3/3/2007 9:09:00
+883|593|8|district tokenization that |1/5/2004 0:52:00
+242|895|10|number keeping |8/31/1994 7:27:00
+646|822|49|number number |4/21/2003 16:38:00
+12|942|27|informally |2/11/2015 19:00:00
+46|943|17|number sequences number insertions |3/17/1990 22:36:00
+663|469|41|district |8/26/1896 16:09:00
+700|80|47|words words |6/10/1973 7:57:00
+373|939|6|number is number each |11/9/2013 0:06:00
+600|61|79|number nonzero single-character after |10/9/1963 6:48:00
+182|624|80|the number collection total |3/1/1925 21:25:00
+751|593|58|change is words text |11/24/1968 7:48:00
+474|363|35|stopwords |4/26/2018 2:23:00
+883|289|10|substitutions removal other |8/13/1943 4:12:00
+778|83|67|single-character |4/24/1895 3:18:00
+472|269|21|other |7/2/2017 15:16:00
+156|32|64|of words |2/21/1984 17:30:00
+461|717|90|other between |10/1/1925 15:47:00
+918|885|5|collection district nonzero levenshtein |12/19/2013 15:26:00
+711|557|77|into collection |8/20/2017 14:49:00
+946|263|22|insertions that of collection |9/16/2003 19:06:00
+165|522|94|after after words |4/15/1975 1:03:00
+84|923|7|one required |12/31/2003 13:07:00
+56|487|20|for |10/26/2016 20:59:00
+696|710|66|single-character unique sequences total |4/21/2009 8:51:00
+547|844|61|tokenization |2/15/1921 4:14:00
+551|959|89|required bag-of-words words |11/13/1958 0:49:00
+69|226|11|collection occurred |11/25/2016 15:41:00
+926|230|76|measuring after |4/10/1916 5:24:00
+646|440|37|other bag-of-words measuring |1/21/1980 4:35:00
+647|243|57|insertions |8/7/2009 11:32:00
+807|362|42|of into truncated |1/15/1963 12:41:00
+384|343|26|for into into |1/12/1928 20:23:00
+229|116|92|vocabulary two |3/14/2016 5:05:00
+215|520|35|district is |9/24/2012 22:45:00
+568|398|99|words sequences each counts |11/10/1943 21:42:00
+240|590|0|informally vocabulary district |1/30/1979 13:11:00
+973|590|35|minimum is |1/22/2017 20:17:00
+845|746|2|text one |6/26/1990 11:05:00
+912|14|66|that deletions truncated number |1/10/2014 3:08:00
+140|428|55|is in text truncated |12/12/1991 18:52:00
+214|954|24|two word documents |8/11/2018 0:57:00
+283|284|42|between single-character number after |1/20/1945 14:59:00
+132|45|21|below into the |9/3/2013 20:01:00
+514|868|26|keeping in single-character |7/6/2014 11:49:00
+947|717|60|minimum substitutions nonzero |5/2/1987 15:20:00
+696|713|19|edits insertions removal vocabulary |1/9/2014 19:36:00
+63|3|75|distance words total |8/22/2016 17:48:00
+651|16|58|for occurred stopwords collection |11/7/2017 19:32:00
+171|465|27|vocabulary |11/24/1984 15:55:00
+678|281|99|collection words |6/18/1995 8:50:00
+130|795|19|substitutions NNZ stopwords |8/14/2010 1:25:00
+588|360|11|for |8/25/2018 16:46:00
+770|333|77|between single-character insertions unique |10/5/1987 9:50:00
+626|463|49|for occurred counts |10/23/1988 19:49:00
+765|460|45|is sequences  |12/8/1996 8:12:00
+414|499|21|tokenization |11/20/1924 2:11:00
+31|667|33|NNZ |4/1/1988 16:18:00
+469|689|73|required single-character for total |12/14/1953 22:52:00
+137|14|5|removal two |6/12/1957 5:50:00
+866|664|8|vocabulary that the insertions |1/4/2002 5:21:00
+43|554|90|single-character |7/12/1883 13:35:00
+173|979|75|number |3/31/1987 14:28:00
+573|157|94|measuring NNZ occurred substitutions |11/6/1913 6:57:00
+478|482|60|of number edits |9/17/2010 12:23:00
+446|874|67|each |10/28/1910 0:59:00
+340|467|29|that distance |5/1/1981 8:18:00
+259|931|60|in |1/3/1934 3:35:00
+180|984|41|number  below |4/20/2004 0:40:00
+939|183|25|word |12/20/1996 8:06:00
+920|90|13|number |6/17/2018 21:29:00
+921|728|82|nonzero the for |1/20/1997 11:29:00
+314|815|3|informally counts that stopwords |6/13/2014 5:13:00
+113|267|50|number  |8/4/1966 20:39:00
+680|951|9|informally measuring documents |10/2/2009 18:58:00
+302|889|96|for total vocabulary word |5/29/1942 17:03:00
+111|909|53|two for for |12/2/1956 23:26:00
+420|244|5|for of change |11/17/1957 19:25:00
+759|721|41|number unique total |5/20/1997 8:45:00
+359|31|22|keeping number |4/23/2003 1:02:00
+556|252|14|keeping sequences |6/26/2000 17:17:00
+74|920|24|into minimum informally |8/4/2006 22:07:00
+184|518|49|number text |1/4/2007 10:57:00
+976|492|93|of |10/7/1985 17:37:00
+599|866|60|two number words collection |3/14/1992 23:10:00
+124|693|1|district measuring edits |2/13/2013 10:57:00
+344|740|58|NNZ is informally into |9/17/1949 8:32:00
+224|31|91|counts text number of |2/13/2004 0:11:00
+234|781|75|edits |1/28/2017 5:43:00
+444|164|90|the |9/1/2017 9:12:00
+399|418|1|vocabulary |7/19/1999 0:32:00
+337|974|4|single-character |4/6/2007 19:38:00
+626|3|88|required  |5/4/1982 0:02:00
+595|374|95|word vocabulary |5/11/1960 1:38:00
+984|666|64|stopwords substitutions |5/8/1983 17:57:00
+907|192|80|collection levenshtein words for |8/27/1946 13:51:00
+817|160|1|vocabulary total one |10/27/1993 11:41:00
+662|915|95|distance NNZ other |9/1/1922 9:04:00
+153|926|52|removal sequences that for |7/7/2006 17:06:00
+52|608|14|after number after unique |9/6/2015 8:09:00
+859|400|58|into NNZ |9/3/1951 15:36:00
+566|956|53|two number |1/4/1955 3:01:00
+630|148|2|each between |8/23/1955 20:03:00
+971|304|52|truncated |7/27/1913 6:21:00
+866|300|65|number |8/21/1945 10:18:00
+801|80|54|each is collection |12/11/1935 23:52:00
+862|213|27|nonzero |7/1/1899 11:27:00
+369|321|29|stopwords one |6/12/1985 4:25:00
+432|55|77|for for words |3/24/1969 7:53:00
+549|18|92|after difference other in |5/4/1925 10:26:00
+655|824|24|word counts for number |3/2/2018 16:58:00
+851|483|88|stopwords of |7/30/1972 10:18:00
+402|326|20|each total for |8/24/2003 17:13:00
+536|547|59|text words |7/1/2013 3:45:00
+67|184|83|number for levenshtein NNZ |12/20/1922 1:29:00
+944|166|66|number in |6/19/1954 11:41:00
+562|829|0| number insertions deletions |6/5/2006 21:39:00
+259|349|80|single-character district |1/18/1972 10:44:00
+558|974|12|stopwords number tokenization |1/16/1973 12:50:00
+736|651|23|nonzero two words |7/6/2014 3:00:00
+178|468|19|for after keeping |6/21/1955 6:08:00
+416|100|55|for required words |6/6/1953 4:37:00
+700|171|14|truncated change keeping |1/25/2004 15:02:00
+232|963|88|for distance below |2/20/1992 23:04:00
+776|310|46|documents is number |11/3/2016 8:31:00
+95|732|29|NNZ informally |4/7/1988 23:04:00
+785|514|46|words is word |11/5/2013 16:21:00
+686|297|90|edits vocabulary informally occurred |9/26/1958 20:10:00
+705|750|69|keeping |8/15/2018 16:20:00
+443|162|67|below documents each district |12/24/2012 3:06:00
+433|3|47|keeping vocabulary substitutions bag-of-words |9/17/2012 10:17:00
+962|122|91|single-character deletions into |10/8/1965 22:05:00
+88|516|93|number |5/1/1941 14:19:00
+787|5|35|substitutions |10/12/1991 2:20:00
+243|864|84|into |12/12/1916 0:50:00
+827|754|55|number documents |6/10/2006 8:58:00
+78|76|22|that substitutions |10/27/2004 21:20:00
+625|498|14|tokenization tokenization text |2/15/1932 5:34:00
+269|254|67|into single-character |7/28/1946 2:18:00
+760|607|64|levenshtein word |7/17/1999 8:56:00
+711|995|87|measuring number for truncated |1/1/1969 3:08:00
+714|220|64|counts for |3/2/1994 16:19:00
+928|117|33|number informally words |7/17/1990 11:21:00
+602|796|11|counts between keeping distance |9/7/1996 18:41:00
+126|179|13|of occurred |3/12/2008 16:37:00
+206|77|46|collection number measuring for |9/8/2018 8:22:00
+969|657|17|other below counts |6/9/2008 15:16:00
+316|645|15|that |10/3/1972 16:45:00
+483|402|79|number documents |9/4/1950 15:36:00
+2|615|33|each NNZ words |8/5/1991 2:29:00
+873|901|88|truncated |3/22/1995 11:40:00
+12|794|92|minimum text |11/18/1990 21:25:00
+587|900|28|words |9/28/1996 17:46:00
+799|474|56|number for two |1/29/2016 10:50:00
+17|300|25|single-character |9/19/2017 5:44:00
+960|400|0|removal vocabulary |7/30/2017 2:03:00
+953|863|43|nonzero |10/15/1993 0:10:00
+159|171|39|collection tokenization one counts |9/9/1958 22:56:00
+317|340|39|single-character difference the documents |12/27/1993 21:36:00
+322|325|6|that |1/1/1983 13:32:00
+646|697|56|each vocabulary deletions |10/9/1986 1:28:00
+834|752|33|text after words  |12/4/1995 4:38:00
+607|618|16|collection |5/7/2017 6:17:00
+732|116|94|counts bag-of-words |12/27/2017 13:13:00
+274|740|22|number counts that for |9/27/2014 6:42:00
+299|786|29|change for |7/25/2012 2:39:00
+935|872|63|total vocabulary |3/22/1925 1:09:00
+507|916|84|tokenization counts |7/7/2018 13:02:00
+764|219|98|substitutions |12/18/1992 21:39:00
+50|61|41|the |11/15/1952 18:53:00
+949|447|35|stopwords collection is |5/25/2014 20:23:00
+977|648|36|that documents levenshtein below |8/13/1924 11:15:00
+72|765|39|change |1/29/1955 11:12:00
+139|700|36|in tokenization is collection |11/15/2015 22:52:00
+967|910|92|the |5/2/2010 21:15:00
+4|857|49|truncated required |1/22/2013 10:43:00
+120|76|75|that one removal unique |12/30/1978 11:46:00
+518|918|79|single-character total edits unique |4/23/1942 3:20:00
+397|748|75|that keeping each into |2/17/2018 3:23:00
+627|340|95|is is below number |3/29/1983 0:51:00
+513|0|14|for |10/21/1984 4:41:00
+252|60|22|for difference two |10/17/1954 7:51:00
+601|140|38|change |10/22/2017 10:01:00
+437|972|82|each between |10/6/1969 9:38:00
+679|927|25|into |10/19/1977 11:57:00
+362|652|47|single-character words single-character difference |2/20/1890 1:16:00
+95|297|49|minimum removal is |1/1/2018 19:49:00
+702|468|77|text |12/12/1992 9:21:00
+292|477|99|after levenshtein |6/11/2003 13:39:00
+428|948|55|informally |11/15/1987 8:41:00
+670|642|17|sequences number nonzero one |1/13/1994 19:27:00
+222|143|13|for word after of |12/3/1968 6:51:00
+928|9|68|nonzero two that the |4/2/1977 12:12:00
+981|907|79|number |1/28/1976 6:22:00
+111|891|29|word after vocabulary number |9/25/2017 21:40:00
+101|167|44|other |5/5/2018 2:25:00
+713|661|7|that each |1/4/2002 16:12:00
+552|253|16|sequences district levenshtein occurred |1/16/1993 12:56:00
+237|322|9|number tokenization sequences number |8/29/1980 0:40:00
+281|448|79|one |6/24/2010 5:01:00
+91|345|59|change two two |4/4/2015 0:11:00
+76|787|54|counts |11/12/1989 19:02:00
+795|408|37|levenshtein deletions difference |2/18/1990 3:11:00
+526|421|97|substitutions number for |1/21/1943 4:51:00
+621|729|44|below NNZ after measuring |7/24/1986 17:01:00
+396|368|40|for |2/25/1993 7:45:00
+290|992|56|vocabulary collection other |9/23/1973 22:11:00
+473|374|75|word total  NNZ |6/1/1997 2:48:00
+960|654|39|number |2/24/2000 2:24:00
+256|441|83|the |6/17/1911 15:26:00
+861|108|47|is nonzero words stopwords |6/10/2012 19:54:00
+886|960|84|after the |2/4/1982 4:36:00
+296|41|55|change keeping after unique |8/17/1946 2:27:00
+737|67|25|levenshtein between |12/15/1985 1:08:00
+800|80|25|NNZ stopwords |5/16/1914 9:33:00
+122|427|27|insertions is vocabulary district |10/18/1997 15:09:00
+552|611|95|that measuring occurred in |9/11/2009 3:30:00
+710|338|1|bag-of-words |8/27/2012 4:15:00
+574|323|90|district occurred removal bag-of-words |3/2/2018 15:39:00
+832|234|63|documents |10/7/1987 12:10:00
+96|112|12|tokenization between edits number |12/3/1920 13:43:00
+716|58|37|occurred |5/11/1998 2:52:00
+676|778|91|stopwords below stopwords |1/13/1927 20:00:00
+366|522|98|words |8/17/1985 22:21:00
+903|15|23|removal |11/16/1933 0:03:00
+98|133|33|minimum insertions two |10/16/2014 5:22:00
+780|267|36|measuring unique difference deletions |7/19/2012 14:16:00
+930|320|6|difference |10/25/1941 13:16:00
+569|174|97|vocabulary collection |8/23/1991 23:50:00
+819|161|13|levenshtein levenshtein substitutions words |8/4/1999 5:02:00
+251|199|67|bag-of-words stopwords |4/15/2014 8:13:00
+144|578|84|informally |8/3/1997 15:00:00
+580|747|18|word |8/21/2010 0:21:00
+807|542|78|stopwords each one |2/17/2004 16:12:00
+78|65|95|insertions unique |8/6/1970 1:51:00
+495|61|65|nonzero |4/15/2010 12:07:00
+56|788|7|removal |7/25/2005 6:47:00
+538|23|70|into |9/24/1980 13:38:00
+0|679|65|the number tokenization |9/12/1971 15:37:00
+919|331|9|sequences |7/16/1993 2:08:00
+373|885|39|sequences text into single-character |3/25/1999 21:28:00
+55|382|29|informally keeping keeping |11/26/1957 7:09:00
+567|494|62|keeping |12/4/1970 12:09:00
+99|303|6|that below |1/18/1999 22:11:00
+335|767|56|for into after |9/4/2002 19:17:00
+742|406|38|two words |1/21/1985 8:56:00
+739|558|42|minimum words deletions between |9/16/1940 1:14:00
+792|947|75|levenshtein truncated keeping below |8/31/1990 3:34:00
+898|980|54|number |1/3/2014 6:52:00
+830|495|85|word keeping |11/30/2016 20:18:00
+143|819|88|stopwords levenshtein  |5/14/1960 9:19:00
+630|4|64| required one below |10/31/1898 14:25:00
+658|551|64|minimum truncated |9/18/1964 0:43:00
+675|19|51|number word for occurred |2/4/2004 12:30:00
+742|643|26|distance keeping truncated other |10/3/2010 3:34:00
+837|574|92|distance |5/21/1941 7:18:00
+456|158|83|collection |2/29/1964 3:39:00
+313|690|49|other levenshtein one bag-of-words |10/25/1923 5:16:00
+586|278|28|difference the number |1/12/2007 11:36:00
+132|951|58|bag-of-words the words |8/10/2002 2:32:00
+81|544|50|number occurred for |9/3/2011 18:55:00
+737|46|86|after measuring between |7/31/1877 15:59:00
+697|88|83|collection NNZ |10/17/1956 8:30:00
+509|636|51|two |1/3/2011 13:50:00
+373|928|92|one required informally of |6/20/1964 2:44:00
+34|63|9|minimum other |9/7/2007 20:50:00
+27|884|37|informally unique of |8/13/2016 13:07:00
+67|136|11|district in word number |3/11/2007 1:10:00
+878|690|21|total deletions collection each |9/26/2013 15:49:00
+160|22|75|words difference total |12/11/1990 14:10:00
+636|666|61|distance between |10/30/1988 12:23:00
+104|874|53|number |8/11/2012 2:03:00
+65|281|81|the substitutions nonzero |11/24/1919 19:06:00
+541|564|31|keeping |2/5/2017 3:59:00
+973|451|61|total total |4/16/1997 20:21:00
+355|468|97|district |5/30/2018 9:30:00
+965|864|47|word edits minimum |11/28/1986 11:05:00
+259|811|5|number collection number below |7/31/2016 4:49:00
+560|500|58|for |2/19/2005 16:41:00
+347|9|15|of bag-of-words truncated sequences |4/26/1966 9:44:00
+630|238|82|in word edits |5/13/1992 20:56:00
+207|327|70|single-character |4/8/1955 19:30:00
+571|866|8|deletions removal |12/25/1991 21:39:00
+464|917|29|is keeping keeping the |12/24/2010 22:25:00
+550|81|51|below deletions number each |8/7/1939 1:41:00
+546|596|12|vocabulary words |7/5/1979 22:16:00
+592|26|38|collection |8/25/1995 18:35:00
+634|174|87|single-character |10/6/2017 3:57:00
+946|335|23|NNZ levenshtein |7/30/2016 19:51:00
+607|233|78|nonzero |7/8/2014 2:27:00
+923|468|80|truncated keeping number |7/4/1998 17:22:00
+987|384|68|words change word |1/27/2006 17:55:00
+210|927|16|one |4/22/2012 8:30:00
+871|120|1|counts words keeping |5/28/1938 17:09:00
+716|165|28|of |9/23/1975 3:35:00
+258|812|33|each tokenization each |7/31/2004 8:15:00
+887|875|16|words |5/7/2006 0:15:00
+856|769|63|the |3/27/2014 3:32:00
+772|3|33|stopwords levenshtein two |12/8/1932 16:37:00
+407|770|90|occurred words |5/10/2004 12:36:00
+333|419|68|each nonzero |4/27/1941 15:13:00
+924|862|43|truncated difference |4/1/1940 2:33:00
+844|128|67|one keeping other |7/8/1966 22:09:00
+408|69|24|unique number |7/5/2017 20:39:00
+219|493|80|truncated distance |11/16/2006 19:17:00
+669|102|31|below |9/15/2010 1:27:00
+187|776|43|keeping |2/4/2010 2:58:00
+798|499|46|difference difference |8/21/2005 4:42:00
+418|470|77|words single-character required sequences |9/14/1938 1:49:00
+987|824|24|two  distance of |8/5/2008 3:42:00
+611|53|17|district |8/22/1923 10:45:00
+467|39|8|collection |3/8/2018 9:08:00
+147|199|44|into  |9/6/2018 23:58:00
+104|93|53|vocabulary insertions sequences removal |4/10/1989 1:47:00
+652|471|85|text between |7/10/2017 11:28:00
+751|577|71|levenshtein |8/1/2014 9:11:00
+48|475|56|counts number  |5/8/1996 9:50:00
+961|518|58|removal words |6/7/2018 7:21:00
+398|502|40|below |12/9/1994 13:38:00
+796|42|37|required |12/20/1968 1:23:00
+478|854|33|for |2/21/1988 9:09:00
+289|918|66|below |2/26/1967 18:51:00
+63|71|11|difference words deletions |6/9/1979 2:20:00
+298|521|2|minimum into insertions |12/23/1990 8:33:00
+139|877|49|word total words sequences |3/19/2007 13:49:00
+367|109|99|bag-of-words |10/8/2013 15:48:00
+805|733|69|documents |1/21/1931 4:04:00

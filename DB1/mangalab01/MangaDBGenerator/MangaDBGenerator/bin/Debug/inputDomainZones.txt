@@ -1,0 +1,10 @@
+.ru
+.com
+.ua
+.biz
+.net
+.org
+.sp
+.usa
+.go
+
