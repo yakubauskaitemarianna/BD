@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DBlab_02", "DBlab_02\DBlab_02.ssmssqlproj", "{D3793BCA-2DDB-4756-AB9C-A5E540F5BAFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A098F757-33FE-4B5C-A66A-0DA18A345845}"
+	ProjectSection(SolutionItems) = preProject
+		DBlab_02\1.sql = DBlab_02\1.sql
+		DBlab_02\10.sql = DBlab_02\10.sql
+		DBlab_02\11.sql = DBlab_02\11.sql
+		DBlab_02\12.sql = DBlab_02\12.sql
+		DBlab_02\13.sql = DBlab_02\13.sql
+		DBlab_02\14.sql = DBlab_02\14.sql
+		DBlab_02\15.sql = DBlab_02\15.sql
+		DBlab_02\16.sql = DBlab_02\16.sql
+		DBlab_02\17.sql = DBlab_02\17.sql
+		DBlab_02\18.sql = DBlab_02\18.sql
+		DBlab_02\19.sql = DBlab_02\19.sql
+		DBlab_02\2.sql = DBlab_02\2.sql
+		DBlab_02\20.sql = DBlab_02\20.sql
+		DBlab_02\21.sql = DBlab_02\21.sql
+		DBlab_02\22.sql = DBlab_02\22.sql
+		DBlab_02\3.sql = DBlab_02\3.sql
+		DBlab_02\4.sql = DBlab_02\4.sql
+		DBlab_02\5.sql = DBlab_02\5.sql
+		DBlab_02\6.sql = DBlab_02\6.sql
+		DBlab_02\8.sql = DBlab_02\8.sql
+		DBlab_02\9.sql = DBlab_02\9.sql
+		DBlab_02\ConstraintsMangaDB.sql = DBlab_02\ConstraintsMangaDB.sql
+		DBlab_02\CreateMangaDB.sql = DBlab_02\CreateMangaDB.sql
+		DBlab_02\MassCopyMangaDB.sql = DBlab_02\MassCopyMangaDB.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3793BCA-2DDB-4756-AB9C-A5E540F5BAFA}.Default|Default.ActiveCfg = Default
+		{B96D8DB0-F3F8-46B1-BB5D-427DAF8684D5}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
