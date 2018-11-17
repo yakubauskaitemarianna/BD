@@ -1,0 +1,10 @@
+1|Masha|Phd|teacher|5
+2|Masha|Phd|teacher|1
+1|Masha|Phd|teacher|4
+1|Masha|Phd|teacher|6
+1|Masha|Phd|director|2
+1|Masha|Phd|teacher|3
+1|Masha|Phd|it|7
+1|Masha|Phd|teachers|8
+1|Masha|Phd|tutor|9
+1|Masha|Phd|kek|10
